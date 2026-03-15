@@ -3,7 +3,6 @@
 
 > **Course:** CSE3292 — Deep Learning for Computer Vision  
 > **Project Domain:** Traditional Textile Pattern Recognition  
-> **Date:** January 2026  
 
 ---
 
@@ -92,6 +91,29 @@ These styles represent **different Indian regions, weaving techniques, and cultu
 
 ---
 
+# Dataset Structure
+
+```
+IndiVision_Clothing/
+├── images/
+│   ├── train/          # 75% split — 1500 images
+│   ├── val/            # 12.5% split — 250 images
+│   └── test/           # 12.5% split — 250 images
+├── annotations/
+│   └── metadata.csv    # Full annotation with split info
+├── metadata/
+│   └── annotations.csv # Clean annotation CSV
+├── splits/
+│   ├── train.txt
+│   ├── val.txt
+│   └── test.txt
+├── docs/
+│   └── class_definitions.md
+├── README.md
+└── LICENSE
+```
+---
+
 # Dataset Sources
 
 Images were collected from multiple publicly accessible sources.
@@ -143,24 +165,6 @@ Fields include:
 | label | Textile pattern category |
 | source | Website or archive where image was obtained |
 | license | Usage license (where available) |
-
----
-
-# Annotation Strategy
-
-To ensure annotation quality, a structured annotation protocol was followed.
-
-### Step 1 — Reference Guidelines
-Each class was defined using **reference images and short visual descriptions**.
-
-### Step 2 — Multi-Annotator Validation
-The first **100 images were labeled by multiple annotators** to check consistency and agreement.
-
-### Step 3 — Rule Refinement
-Disagreements were discussed and class definitions refined.
-
-### Step 4 — Distributed Annotation
-Remaining images were divided among team members for labeling.
 
 ---
 
