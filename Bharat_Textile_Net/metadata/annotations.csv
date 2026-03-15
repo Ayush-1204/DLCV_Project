@@ -1,0 +1,404 @@
+image_id,filename,label,annotator,date,source
+1,Kalamkari_001.jpg,Kalamkari,Ayush Verma,2026-03-14,SMSarees
+2,Kalamkari_002.jpg,Kalamkari,Ayush Verma,2026-03-13,Google Images
+3,Kalamkari_003.jpg,Kalamkari,Ayush Verma,2026-03-13,SMSarees
+4,Kalamkari_004.jpg,Kalamkari,Ayush Verma,2026-03-11,IndiaMart
+5,Kalamkari_005.jpg,Kalamkari,Ayush Verma,2026-03-11,VrikshamIndia
+6,Kalamkari_006.jpg,Kalamkari,Ayush Verma,2026-03-11,SMSarees
+7,Kalamkari_007.jpg,Kalamkari,Ayush Verma,2026-03-12,SMSarees
+8,Kalamkari_008.jpg,Kalamkari,Ayush Verma,2026-03-12,Soovos Handlooms
+9,Kalamkari_009.jpg,Kalamkari,Ayush Verma,2026-03-14,KalamkariBlockPrints
+10,Kalamkari_010.jpg,Kalamkari,Ayush Verma,2026-03-13,Luxurion World
+11,Kalamkari_011.jpg,Kalamkari,Ayush Verma,2026-03-11,Soovos Handlooms
+12,Kalamkari_012.jpg,Kalamkari,Ayush Verma,2026-03-11,Google Images
+13,Kalamkari_013.jpg,Kalamkari,Ayush Verma,2026-03-11,Luxurion World
+14,Kalamkari_014.jpg,Kalamkari,Ayush Verma,2026-03-14,Google Images
+15,Kalamkari_015.jpg,Kalamkari,Ayush Verma,2026-03-10,Google Images
+16,Kalamkari_016.jpg,Kalamkari,Ayush Verma,2026-03-10,SMSarees
+17,Kalamkari_017.jpg,Kalamkari,Ayush Verma,2026-03-12,VrikshamIndia
+18,Kalamkari_018.jpg,Kalamkari,Ayush Verma,2026-03-09,TheWardrobeStories
+19,Kalamkari_019.jpg,Kalamkari,Ayush Verma,2026-03-11,Myntra
+20,Kalamkari_020.jpg,Kalamkari,Ayush Verma,2026-03-09,Nachiyars
+21,Kalamkari_021.jpg,Kalamkari,Ayush Verma,2026-03-14,JSP Handlooms
+22,Kalamkari_022.jpg,Kalamkari,Ayush Verma,2026-03-12,IndiaMart
+23,Kalamkari_023.jpg,Kalamkari,Ayush Verma,2026-03-14,Luxurion World
+24,Kalamkari_024.jpg,Kalamkari,Ayush Verma,2026-03-09,Google Images
+25,Kalamkari_025.jpg,Kalamkari,Ayush Verma,2026-03-14,Soovos Handlooms
+26,Kalamkari_026.jpg,Kalamkari,Ayush Verma,2026-03-09,SMSarees
+27,Kalamkari_027.jpg,Kalamkari,Ayush Verma,2026-03-14,Luxurion World
+28,Kalamkari_028.jpg,Kalamkari,Ayush Verma,2026-03-14,Soovos Handlooms
+29,Kalamkari_029.jpg,Kalamkari,Ayush Verma,2026-03-12,Luxurion World
+30,Kalamkari_030.jpg,Kalamkari,Ayush Verma,2026-03-12,KalamkariBlockPrints
+31,Kalamkari_031.jpg,Kalamkari,Ayush Verma,2026-03-12,JSP Handlooms
+32,Kalamkari_032.jpg,Kalamkari,Ayush Verma,2026-03-10,IndoKrafts
+33,Kalamkari_033.jpg,Kalamkari,Ayush Verma,2026-03-12,Nachiyars
+34,Kalamkari_034.jpg,Kalamkari,Ayush Verma,2026-03-11,Myntra
+35,Kalamkari_035.jpg,Kalamkari,Ayush Verma,2026-03-10,Soovos Handlooms
+36,Kalamkari_036.jpg,Kalamkari,Ayush Verma,2026-03-09,TradeIndia
+37,Kalamkari_037.jpg,Kalamkari,Ayush Verma,2026-03-13,Nachiyars
+38,Kalamkari_038.jpg,Kalamkari,Ayush Verma,2026-03-11,JSP Handlooms
+39,Kalamkari_039.jpg,Kalamkari,Ayush Verma,2026-03-09,TradeIndia
+40,Kalamkari_040.jpg,Kalamkari,Ayush Verma,2026-03-14,IndoKrafts
+41,Kalamkari_041.jpg,Kalamkari,Ayush Verma,2026-03-10,TradeIndia
+42,Kalamkari_042.jpg,Kalamkari,Ayush Verma,2026-03-12,KalamkariBlockPrints
+43,Kalamkari_043.jpg,Kalamkari,Ayush Verma,2026-03-12,Google Images
+44,Kalamkari_044.jpg,Kalamkari,Ayush Verma,2026-03-11,TradeIndia
+45,Kalamkari_045.jpg,Kalamkari,Ayush Verma,2026-03-11,SMSarees
+46,Kalamkari_046.jpg,Kalamkari,Ayush Verma,2026-03-11,Nachiyars
+47,Kalamkari_047.jpg,Kalamkari,Ayush Verma,2026-03-10,Soovos Handlooms
+48,Kalamkari_048.jpg,Kalamkari,Ayush Verma,2026-03-09,Nachiyars
+49,Kalamkari_049.jpg,Kalamkari,Ayush Verma,2026-03-11,TradeIndia
+50,Kalamkari_050.jpg,Kalamkari,Ayush Verma,2026-03-11,TheWardrobeStories
+51,Kalamkari_051.jpg,Kalamkari,Ayush Verma,2026-03-09,TheWardrobeStories
+52,Kalamkari_052.jpg,Kalamkari,Ayush Verma,2026-03-11,VrikshamIndia
+53,Kalamkari_053.jpg,Kalamkari,Ayush Verma,2026-03-12,Myntra
+54,Kalamkari_054.jpg,Kalamkari,Ayush Verma,2026-03-12,IndoKrafts
+55,Kalamkari_055.jpg,Kalamkari,Ayush Verma,2026-03-12,Sanskruti
+56,Kalamkari_056.jpg,Kalamkari,Ayush Verma,2026-03-13,KalamkariBlockPrints
+57,Kalamkari_057.jpg,Kalamkari,Ayush Verma,2026-03-10,Luxurion World
+58,Kalamkari_058.jpg,Kalamkari,Ayush Verma,2026-03-14,Google Images
+59,Kalamkari_059.jpg,Kalamkari,Ayush Verma,2026-03-09,Nachiyars
+60,Kalamkari_060.jpg,Kalamkari,Ayush Verma,2026-03-14,TradeIndia
+61,Kalamkari_061.jpg,Kalamkari,Ayush Verma,2026-03-12,Luxurion World
+62,Kalamkari_062.jpg,Kalamkari,Ayush Verma,2026-03-12,TradeIndia
+63,Kalamkari_063.jpg,Kalamkari,Ayush Verma,2026-03-14,IndoKrafts
+64,Kalamkari_064.jpg,Kalamkari,Ayush Verma,2026-03-09,Sanskruti
+65,Kalamkari_065.jpg,Kalamkari,Ayush Verma,2026-03-13,Luxurion World
+66,Kalamkari_066.jpg,Kalamkari,Ayush Verma,2026-03-09,IndiaMart
+67,Kalamkari_067.jpg,Kalamkari,Ayush Verma,2026-03-11,JSP Handlooms
+68,Kalamkari_068.jpg,Kalamkari,Ayush Verma,2026-03-13,IndiaMart
+69,Kalamkari_069.jpg,Kalamkari,Ayush Verma,2026-03-12,IndiaMart
+70,Kalamkari_070.jpg,Kalamkari,Ayush Verma,2026-03-12,Pinterest
+71,Kalamkari_071.jpg,Kalamkari,Ayush Verma,2026-03-11,SMSarees
+72,Kalamkari_072.jpg,Kalamkari,Ayush Verma,2026-03-14,Google Images
+73,Kalamkari_073.jpg,Kalamkari,Ayush Verma,2026-03-11,VrikshamIndia
+74,Kalamkari_074.jpg,Kalamkari,Ayush Verma,2026-03-13,TheWardrobeStories
+75,Kalamkari_075.jpg,Kalamkari,Ayush Verma,2026-03-11,IndiaMart
+76,Kalamkari_076.jpg,Kalamkari,Ayush Verma,2026-03-14,Soovos Handlooms
+77,Kalamkari_077.jpg,Kalamkari,Ayush Verma,2026-03-12,Google Images
+78,Kalamkari_078.jpg,Kalamkari,Ayush Verma,2026-03-12,Luxurion World
+79,Kalamkari_079.jpg,Kalamkari,Ayush Verma,2026-03-09,Google Images
+80,Kalamkari_080.jpg,Kalamkari,Ayush Verma,2026-03-09,Luxurion World
+81,Kalamkari_081.jpg,Kalamkari,Ayush Verma,2026-03-13,KalamkariBlockPrints
+82,Kalamkari_082.jpg,Kalamkari,Ayush Verma,2026-03-09,Sanskruti
+83,Kalamkari_083.jpg,Kalamkari,Ayush Verma,2026-03-09,VrikshamIndia
+84,Kalamkari_084.jpg,Kalamkari,Ayush Verma,2026-03-14,TheWardrobeStories
+85,Kalamkari_085.jpg,Kalamkari,Ayush Verma,2026-03-12,IndiaMart
+86,Kalamkari_086.jpg,Kalamkari,Ayush Verma,2026-03-09,Nachiyars
+87,Kalamkari_087.jpg,Kalamkari,Ayush Verma,2026-03-13,Soovos Handlooms
+88,Kalamkari_088.jpg,Kalamkari,Ayush Verma,2026-03-12,JSP Handlooms
+89,Kalamkari_089.jpg,Kalamkari,Ayush Verma,2026-03-11,SMSarees
+90,Kalamkari_090.jpg,Kalamkari,Ayush Verma,2026-03-12,Soovos Handlooms
+91,Kalamkari_091.jpg,Kalamkari,Ayush Verma,2026-03-12,IndiaMart
+92,Kalamkari_092.jpg,Kalamkari,Ayush Verma,2026-03-09,SMSarees
+93,Kalamkari_093.jpg,Kalamkari,Ayush Verma,2026-03-14,TradeIndia
+94,Kalamkari_094.jpg,Kalamkari,Ayush Verma,2026-03-11,IndiaMart
+95,Kalamkari_095.jpg,Kalamkari,Ayush Verma,2026-03-12,IndiaMart
+96,Kalamkari_096.jpg,Kalamkari,Ayush Verma,2026-03-13,TheWardrobeStories
+97,Kalamkari_097.jpg,Kalamkari,Ayush Verma,2026-03-09,Google Images
+98,Kalamkari_098.jpg,Kalamkari,Ayush Verma,2026-03-09,Google Images
+99,Kalamkari_099.jpg,Kalamkari,Ayush Verma,2026-03-09,Soovos Handlooms
+100,Kalamkari_100.jpg,Kalamkari,Ayush Verma,2026-03-09,KalamkariBlockPrints
+101,Kalamkari_101.jpg,Kalamkari,Ayush Verma,2026-03-10,IndiaMart
+102,Kalamkari_102.jpg,Kalamkari,Ayush Verma,2026-03-14,Google Images
+103,Kalamkari_103.jpg,Kalamkari,Ayush Verma,2026-03-09,VrikshamIndia
+104,Kalamkari_104.jpg,Kalamkari,Ayush Verma,2026-03-13,Luxurion World
+105,Kalamkari_105.jpg,Kalamkari,Ayush Verma,2026-03-10,Soovos Handlooms
+106,Kalamkari_106.jpg,Kalamkari,Ayush Verma,2026-03-09,Sanskruti
+107,Kalamkari_107.jpg,Kalamkari,Ayush Verma,2026-03-12,IndoKrafts
+108,Kalamkari_108.jpg,Kalamkari,Ayush Verma,2026-03-14,VrikshamIndia
+109,Kalamkari_109.jpg,Kalamkari,Ayush Verma,2026-03-10,Luxurion World
+110,Kalamkari_110.jpg,Kalamkari,Ayush Verma,2026-03-09,Google Images
+111,Kalamkari_111.jpg,Kalamkari,Ayush Verma,2026-03-10,VrikshamIndia
+112,Kalamkari_112.jpg,Kalamkari,Ayush Verma,2026-03-10,Luxurion World
+113,Kalamkari_113.jpg,Kalamkari,Ayush Verma,2026-03-10,Luxurion World
+114,Kalamkari_114.jpg,Kalamkari,Ayush Verma,2026-03-10,Soovos Handlooms
+115,Kalamkari_115.jpg,Kalamkari,Ayush Verma,2026-03-13,JSP Handlooms
+116,Kalamkari_116.jpg,Kalamkari,Ayush Verma,2026-03-13,IndiaMart
+117,Kalamkari_117.jpg,Kalamkari,Ayush Verma,2026-03-10,IndiaMart
+118,Kalamkari_118.jpg,Kalamkari,Ayush Verma,2026-03-09,Google Images
+119,Kalamkari_119.jpg,Kalamkari,Ayush Verma,2026-03-10,VrikshamIndia
+120,Kalamkari_120.jpg,Kalamkari,Ayush Verma,2026-03-11,Nachiyars
+121,Kalamkari_121.jpg,Kalamkari,Ayush Verma,2026-03-11,Luxurion World
+122,Kalamkari_122.jpg,Kalamkari,Ayush Verma,2026-03-12,KalamkariBlockPrints
+123,Kalamkari_123.jpg,Kalamkari,Ayush Verma,2026-03-10,Nachiyars
+124,Kalamkari_124.jpg,Kalamkari,Ayush Verma,2026-03-09,JSP Handlooms
+125,Kalamkari_125.jpg,Kalamkari,Ayush Verma,2026-03-14,Google Images
+126,Kalamkari_126.jpg,Kalamkari,Ayush Verma,2026-03-14,JSP Handlooms
+127,Kalamkari_127.jpg,Kalamkari,Ayush Verma,2026-03-11,Soovos Handlooms
+128,Kalamkari_128.jpg,Kalamkari,Ayush Verma,2026-03-10,TradeIndia
+129,Kalamkari_129.jpg,Kalamkari,Ayush Verma,2026-03-13,IndiaMart
+130,Kalamkari_130.jpg,Kalamkari,Ayush Verma,2026-03-10,Nachiyars
+131,Kalamkari_131.jpg,Kalamkari,Ayush Verma,2026-03-14,Sanskruti
+132,Kalamkari_132.jpg,Kalamkari,Ayush Verma,2026-03-11,JSP Handlooms
+133,Kalamkari_133.jpg,Kalamkari,Ayush Verma,2026-03-13,Myntra
+134,Kalamkari_134.jpg,Kalamkari,Ayush Verma,2026-03-12,TradeIndia
+135,Kalamkari_135.jpg,Kalamkari,Ayush Verma,2026-03-12,Sanskruti
+136,Kalamkari_136.jpg,Kalamkari,Ayush Verma,2026-03-12,Myntra
+137,Kalamkari_137.jpg,Kalamkari,Ayush Verma,2026-03-13,Soovos Handlooms
+138,Kalamkari_138.jpg,Kalamkari,Ayush Verma,2026-03-13,KalamkariBlockPrints
+139,Kalamkari_139.jpg,Kalamkari,Ayush Verma,2026-03-10,TradeIndia
+140,Kalamkari_140.jpg,Kalamkari,Ayush Verma,2026-03-13,IndoKrafts
+141,Kalamkari_141.jpg,Kalamkari,Ayush Verma,2026-03-13,Sanskruti
+142,Kalamkari_142.jpg,Kalamkari,Ayush Verma,2026-03-09,TheWardrobeStories
+143,Kalamkari_143.jpg,Kalamkari,Ayush Verma,2026-03-09,Soovos Handlooms
+144,Kalamkari_144.jpg,Kalamkari,Ayush Verma,2026-03-12,SMSarees
+145,Kalamkari_145.jpg,Kalamkari,Ayush Verma,2026-03-13,TheWardrobeStories
+146,Kalamkari_146.jpg,Kalamkari,Ayush Verma,2026-03-11,Luxurion World
+147,Kalamkari_147.jpg,Kalamkari,Ayush Verma,2026-03-11,Sanskruti
+148,Kalamkari_148.jpg,Kalamkari,Ayush Verma,2026-03-13,TradeIndia
+149,Kalamkari_149.jpg,Kalamkari,Ayush Verma,2026-03-09,Google Images
+150,Kalamkari_150.jpg,Kalamkari,Ayush Verma,2026-03-14,Nachiyars
+151,Kalamkari_151.jpg,Kalamkari,Ayush Verma,2026-03-12,Luxurion World
+152,Kalamkari_152.jpg,Kalamkari,Ayush Verma,2026-03-13,Luxurion World
+153,Kalamkari_153.jpg,Kalamkari,Ayush Verma,2026-03-13,Pinterest
+154,Kalamkari_154.jpg,Kalamkari,Ayush Verma,2026-03-12,SMSarees
+155,Kalamkari_155.jpg,Kalamkari,Ayush Verma,2026-03-13,Sanskruti
+156,Kalamkari_156.jpg,Kalamkari,Ayush Verma,2026-03-13,TheWardrobeStories
+157,Kalamkari_157.jpg,Kalamkari,Ayush Verma,2026-03-09,SMSarees
+158,Kalamkari_158.jpg,Kalamkari,Ayush Verma,2026-03-14,Nachiyars
+159,Kalamkari_159.jpg,Kalamkari,Ayush Verma,2026-03-12,Sanskruti
+160,Kalamkari_160.jpg,Kalamkari,Ayush Verma,2026-03-12,SMSarees
+161,Kalamkari_161.jpg,Kalamkari,Ayush Verma,2026-03-13,Luxurion World
+162,Kalamkari_162.jpg,Kalamkari,Ayush Verma,2026-03-11,KalamkariBlockPrints
+163,Kalamkari_163.jpg,Kalamkari,Ayush Verma,2026-03-10,IndoKrafts
+164,Kalamkari_164.jpg,Kalamkari,Ayush Verma,2026-03-13,Sanskruti
+165,Kalamkari_165.jpg,Kalamkari,Ayush Verma,2026-03-14,Myntra
+166,Kalamkari_166.jpg,Kalamkari,Ayush Verma,2026-03-09,Myntra
+167,Kalamkari_167.jpg,Kalamkari,Ayush Verma,2026-03-14,Myntra
+168,Kalamkari_168.jpg,Kalamkari,Ayush Verma,2026-03-12,TheWardrobeStories
+169,Kalamkari_169.jpg,Kalamkari,Ayush Verma,2026-03-12,SMSarees
+170,Kalamkari_170.jpg,Kalamkari,Ayush Verma,2026-03-11,TradeIndia
+171,Kalamkari_171.jpg,Kalamkari,Ayush Verma,2026-03-09,SMSarees
+172,Kalamkari_172.jpg,Kalamkari,Ayush Verma,2026-03-13,IndiaMart
+173,Kalamkari_173.jpg,Kalamkari,Ayush Verma,2026-03-13,Myntra
+174,Kalamkari_174.jpg,Kalamkari,Ayush Verma,2026-03-09,Myntra
+175,Kalamkari_175.jpg,Kalamkari,Ayush Verma,2026-03-10,VrikshamIndia
+176,Kalamkari_176.jpg,Kalamkari,Ayush Verma,2026-03-09,JSP Handlooms
+177,Kalamkari_177.jpg,Kalamkari,Ayush Verma,2026-03-11,TradeIndia
+178,Kalamkari_178.jpg,Kalamkari,Ayush Verma,2026-03-14,IndoKrafts
+179,Kalamkari_179.jpg,Kalamkari,Ayush Verma,2026-03-14,JSP Handlooms
+180,Kalamkari_180.jpg,Kalamkari,Ayush Verma,2026-03-10,TheWardrobeStories
+181,Kalamkari_181.jpg,Kalamkari,Ayush Verma,2026-03-11,TradeIndia
+182,Kalamkari_182.jpg,Kalamkari,Ayush Verma,2026-03-10,Luxurion World
+183,Kalamkari_183.jpg,Kalamkari,Ayush Verma,2026-03-10,SMSarees
+184,Kalamkari_184.jpg,Kalamkari,Ayush Verma,2026-03-10,Soovos Handlooms
+185,Kalamkari_185.jpg,Kalamkari,Ayush Verma,2026-03-12,Sanskruti
+186,Kalamkari_186.jpg,Kalamkari,Ayush Verma,2026-03-09,Myntra
+187,Kalamkari_187.jpg,Kalamkari,Ayush Verma,2026-03-13,Luxurion World
+188,Kalamkari_188.jpg,Kalamkari,Ayush Verma,2026-03-10,IndoKrafts
+189,Kalamkari_189.jpg,Kalamkari,Ayush Verma,2026-03-13,SMSarees
+190,Kalamkari_190.jpg,Kalamkari,Ayush Verma,2026-03-12,Soovos Handlooms
+191,Kalamkari_191.jpg,Kalamkari,Ayush Verma,2026-03-10,SMSarees
+192,Kalamkari_192.jpg,Kalamkari,Ayush Verma,2026-03-13,IndiaMart
+193,Kalamkari_193.jpg,Kalamkari,Ayush Verma,2026-03-12,Pinterest
+194,Kalamkari_194.jpg,Kalamkari,Ayush Verma,2026-03-14,JSP Handlooms
+195,Kalamkari_195.jpg,Kalamkari,Ayush Verma,2026-03-14,Myntra
+196,Kalamkari_196.jpg,Kalamkari,Ayush Verma,2026-03-09,Myntra
+197,Kalamkari_197.jpg,Kalamkari,Ayush Verma,2026-03-10,Luxurion World
+198,Kalamkari_198.jpg,Kalamkari,Ayush Verma,2026-03-11,Soovos Handlooms
+199,Kalamkari_199.jpg,Kalamkari,Ayush Verma,2026-03-12,TradeIndia
+200,Kalamkari_200.jpg,Kalamkari,Ayush Verma,2026-03-14,IndiaMart
+201,Kalamkari_201.jpg,Kalamkari,Ayush Verma,2026-03-13,TradeIndia
+202,Kalamkari_202.jpg,Kalamkari,Ayush Verma,2026-03-13,Soovos Handlooms
+203,Kalamkari_203.jpg,Kalamkari,Ayush Verma,2026-03-12,Nachiyars
+204,Kalamkari_204.jpg,Kalamkari,Ayush Verma,2026-03-10,Justdial
+205,Kalamkari_205.jpg,Kalamkari,Ayush Verma,2026-03-09,KalamkariBlockPrints
+206,Kalamkari_206.jpg,Kalamkari,Ayush Verma,2026-03-11,Myntra
+207,Kalamkari_207.jpg,Kalamkari,Ayush Verma,2026-03-09,Soovos Handlooms
+208,Kalamkari_208.jpg,Kalamkari,Ayush Verma,2026-03-11,TheWardrobeStories
+209,Kalamkari_209.jpg,Kalamkari,Ayush Verma,2026-03-12,Sanskruti
+210,Kalamkari_210.jpg,Kalamkari,Ayush Verma,2026-03-10,VrikshamIndia
+211,Kalamkari_211.jpg,Kalamkari,Ayush Verma,2026-03-10,SMSarees
+212,Kalamkari_212.jpg,Kalamkari,Ayush Verma,2026-03-14,KalamkariBlockPrints
+213,Kalamkari_213.jpg,Kalamkari,Ayush Verma,2026-03-10,IndoKrafts
+214,Kalamkari_214.jpg,Kalamkari,Ayush Verma,2026-03-09,IndiaMart
+215,Kalamkari_215.jpg,Kalamkari,Ayush Verma,2026-03-10,Luxurion World
+216,Kalamkari_216.jpg,Kalamkari,Ayush Verma,2026-03-11,IndiaMart
+217,Kalamkari_217.jpg,Kalamkari,Ayush Verma,2026-03-12,JSP Handlooms
+218,Kalamkari_218.jpg,Kalamkari,Ayush Verma,2026-03-11,Sanskruti
+219,Kalamkari_219.jpg,Kalamkari,Ayush Verma,2026-03-10,Sanskruti
+220,Kalamkari_220.jpg,Kalamkari,Ayush Verma,2026-03-11,IndiaMart
+221,Kalamkari_221.jpg,Kalamkari,Ayush Verma,2026-03-10,IndoKrafts
+222,Kalamkari_222.jpg,Kalamkari,Ayush Verma,2026-03-10,KalamkariBlockPrints
+223,Kalamkari_223.jpg,Kalamkari,Ayush Verma,2026-03-12,JSP Handlooms
+224,Kalamkari_224.jpg,Kalamkari,Ayush Verma,2026-03-14,KalamkariBlockPrints
+225,Kalamkari_225.jpg,Kalamkari,Ayush Verma,2026-03-13,SMSarees
+226,Kalamkari_226.jpg,Kalamkari,Ayush Verma,2026-03-09,Soovos Handlooms
+227,Kalamkari_227.jpg,Kalamkari,Ayush Verma,2026-03-11,TheWardrobeStories
+228,Kalamkari_228.jpg,Kalamkari,Ayush Verma,2026-03-13,Sanskruti
+229,Kalamkari_229.jpg,Kalamkari,Ayush Verma,2026-03-12,IndiaMart
+230,Kalamkari_230.jpg,Kalamkari,Ayush Verma,2026-03-13,JSP Handlooms
+231,Kalamkari_231.jpg,Kalamkari,Ayush Verma,2026-03-11,JSP Handlooms
+232,Kalamkari_232.jpg,Kalamkari,Ayush Verma,2026-03-10,IndoKrafts
+233,Kalamkari_233.jpg,Kalamkari,Ayush Verma,2026-03-10,Google Images
+234,Kalamkari_234.jpg,Kalamkari,Ayush Verma,2026-03-14,VrikshamIndia
+235,Kalamkari_235.jpg,Kalamkari,Ayush Verma,2026-03-09,SMSarees
+236,Kalamkari_236.jpg,Kalamkari,Ayush Verma,2026-03-11,TheWardrobeStories
+237,Kalamkari_237.jpg,Kalamkari,Ayush Verma,2026-03-11,Google Images
+238,Kalamkari_238.jpg,Kalamkari,Ayush Verma,2026-03-11,IndiaMart
+239,Kalamkari_239.jpg,Kalamkari,Ayush Verma,2026-03-13,Google Images
+240,Kalamkari_240.jpg,Kalamkari,Ayush Verma,2026-03-13,VrikshamIndia
+241,Kalamkari_241.jpg,Kalamkari,Ayush Verma,2026-03-11,VrikshamIndia
+242,Kalamkari_242.jpg,Kalamkari,Ayush Verma,2026-03-11,TheWardrobeStories
+243,Kalamkari_243.jpg,Kalamkari,Ayush Verma,2026-03-13,Soovos Handlooms
+244,Kalamkari_244.jpg,Kalamkari,Ayush Verma,2026-03-11,FabricPedia
+245,Kalamkari_245.jpg,Kalamkari,Ayush Verma,2026-03-13,Sanskruti
+246,Kalamkari_246.jpg,Kalamkari,Ayush Verma,2026-03-09,Luxurion World
+247,Kalamkari_247.jpg,Kalamkari,Ayush Verma,2026-03-13,SMSarees
+248,Kalamkari_248.jpg,Kalamkari,Ayush Verma,2026-03-14,Soovos Handlooms
+249,Kalamkari_249.jpg,Kalamkari,Ayush Verma,2026-03-12,Soovos Handlooms
+250,Kalamkari_250.jpg,Kalamkari,Ayush Verma,2026-03-14,Myntra
+251,Kalamkari_251.jpg,Kalamkari,Ayush Verma,2026-03-12,IndoKrafts
+252,Kalamkari_252.jpg,Kalamkari,Ayush Verma,2026-03-11,SMSarees
+253,Kalamkari_253.jpg,Kalamkari,Ayush Verma,2026-03-12,Luxurion World
+254,Kalamkari_254.jpg,Kalamkari,Ayush Verma,2026-03-10,TradeIndia
+255,Kalamkari_255.jpg,Kalamkari,Ayush Verma,2026-03-09,TheWardrobeStories
+256,Kalamkari_256.jpg,Kalamkari,Ayush Verma,2026-03-14,VrikshamIndia
+257,Kalamkari_257.jpg,Kalamkari,Ayush Verma,2026-03-09,KalamkariBlockPrints
+258,Kalamkari_258.jpg,Kalamkari,Ayush Verma,2026-03-14,JSP Handlooms
+259,Kalamkari_259.jpg,Kalamkari,Ayush Verma,2026-03-09,Nachiyars
+260,Kalamkari_260.jpg,Kalamkari,Ayush Verma,2026-03-11,JSP Handlooms
+261,Kalamkari_261.jpg,Kalamkari,Ayush Verma,2026-03-11,Google Images
+262,Kalamkari_262.jpg,Kalamkari,Ayush Verma,2026-03-09,Google Images
+263,Kalamkari_263.jpg,Kalamkari,Ayush Verma,2026-03-10,KalamkariBlockPrints
+264,Kalamkari_264.jpg,Kalamkari,Ayush Verma,2026-03-12,IndoKrafts
+265,Kalamkari_265.jpg,Kalamkari,Ayush Verma,2026-03-12,IndoKrafts
+266,Kalamkari_266.jpg,Kalamkari,Ayush Verma,2026-03-12,Nachiyars
+267,Kalamkari_267.jpg,Kalamkari,Ayush Verma,2026-03-11,Luxurion World
+268,Kalamkari_268.jpg,Kalamkari,Ayush Verma,2026-03-14,Google Images
+269,Kalamkari_269.jpg,Kalamkari,Ayush Verma,2026-03-09,Nachiyars
+270,Kalamkari_270.jpg,Kalamkari,Ayush Verma,2026-03-09,JSP Handlooms
+271,Kalamkari_271.jpg,Kalamkari,Ayush Verma,2026-03-11,Sanskruti
+272,Kalamkari_272.jpg,Kalamkari,Ayush Verma,2026-03-10,FabricPedia
+273,Kalamkari_273.jpg,Kalamkari,Ayush Verma,2026-03-14,SMSarees
+274,Kalamkari_274.jpg,Kalamkari,Ayush Verma,2026-03-13,Soovos Handlooms
+275,Kalamkari_275.jpg,Kalamkari,Ayush Verma,2026-03-13,Sanskruti
+276,Kalamkari_276.jpg,Kalamkari,Ayush Verma,2026-03-12,Pinterest
+277,Kalamkari_277.jpg,Kalamkari,Ayush Verma,2026-03-13,Soovos Handlooms
+278,Kalamkari_278.jpg,Kalamkari,Ayush Verma,2026-03-13,VrikshamIndia
+279,Kalamkari_279.jpg,Kalamkari,Ayush Verma,2026-03-12,SMSarees
+280,Kalamkari_280.jpg,Kalamkari,Ayush Verma,2026-03-09,IndoKrafts
+281,Kalamkari_281.jpg,Kalamkari,Ayush Verma,2026-03-11,Luxurion World
+282,Kalamkari_282.jpg,Kalamkari,Ayush Verma,2026-03-11,Sanskruti
+283,Kalamkari_283.jpg,Kalamkari,Ayush Verma,2026-03-13,Soovos Handlooms
+284,Kalamkari_284.jpg,Kalamkari,Ayush Verma,2026-03-11,TheWardrobeStories
+285,Kalamkari_285.jpg,Kalamkari,Ayush Verma,2026-03-14,Myntra
+286,Kalamkari_286.jpg,Kalamkari,Ayush Verma,2026-03-14,JSP Handlooms
+287,Kalamkari_287.jpg,Kalamkari,Ayush Verma,2026-03-14,KalamkariBlockPrints
+288,Kalamkari_288.jpg,Kalamkari,Ayush Verma,2026-03-11,IndoKrafts
+289,Kalamkari_289.jpg,Kalamkari,Ayush Verma,2026-03-14,VrikshamIndia
+290,Kalamkari_290.jpg,Kalamkari,Ayush Verma,2026-03-13,Google Images
+291,Kalamkari_291.jpg,Kalamkari,Ayush Verma,2026-03-10,Sanskruti
+292,Kalamkari_292.jpg,Kalamkari,Ayush Verma,2026-03-09,VrikshamIndia
+293,Kalamkari_293.jpg,Kalamkari,Ayush Verma,2026-03-09,VrikshamIndia
+294,Kalamkari_294.jpg,Kalamkari,Ayush Verma,2026-03-09,VrikshamIndia
+295,Kalamkari_295.jpg,Kalamkari,Ayush Verma,2026-03-14,VrikshamIndia
+296,Kalamkari_296.jpg,Kalamkari,Ayush Verma,2026-03-10,JSP Handlooms
+297,Kalamkari_297.jpg,Kalamkari,Ayush Verma,2026-03-14,IndiaMart
+298,Kalamkari_298.jpg,Kalamkari,Ayush Verma,2026-03-09,KalamkariBlockPrints
+299,Kalamkari_299.jpg,Kalamkari,Ayush Verma,2026-03-11,Soovos Handlooms
+300,Kalamkari_300.jpg,Kalamkari,Ayush Verma,2026-03-14,TheWardrobeStories
+301,Kalamkari_301.jpg,Kalamkari,Ayush Verma,2026-03-14,Soovos Handlooms
+302,Kalamkari_302.jpg,Kalamkari,Ayush Verma,2026-03-13,Soovos Handlooms
+303,Kalamkari_303.jpg,Kalamkari,Ayush Verma,2026-03-12,Sanskruti
+304,Kalamkari_304.jpg,Kalamkari,Ayush Verma,2026-03-12,VrikshamIndia
+305,Kalamkari_305.jpg,Kalamkari,Ayush Verma,2026-03-09,JSP Handlooms
+306,Kalamkari_306.jpg,Kalamkari,Ayush Verma,2026-03-11,VrikshamIndia
+307,Kalamkari_307.jpg,Kalamkari,Ayush Verma,2026-03-13,TradeIndia
+308,Kalamkari_308.jpg,Kalamkari,Ayush Verma,2026-03-10,JSP Handlooms
+309,Kalamkari_309.jpg,Kalamkari,Ayush Verma,2026-03-11,SMSarees
+310,Kalamkari_310.jpg,Kalamkari,Ayush Verma,2026-03-11,SMSarees
+311,Kalamkari_311.jpg,Kalamkari,Ayush Verma,2026-03-11,TheWardrobeStories
+312,Kalamkari_312.jpg,Kalamkari,Ayush Verma,2026-03-12,TheWardrobeStories
+313,Kalamkari_313.jpg,Kalamkari,Ayush Verma,2026-03-09,JSP Handlooms
+314,Kalamkari_314.jpg,Kalamkari,Ayush Verma,2026-03-09,Myntra
+315,Kalamkari_315.jpg,Kalamkari,Ayush Verma,2026-03-12,IndoKrafts
+316,Kalamkari_316.jpg,Kalamkari,Ayush Verma,2026-03-12,Myntra
+317,Kalamkari_317.jpg,Kalamkari,Ayush Verma,2026-03-12,TradeIndia
+318,Kalamkari_318.jpg,Kalamkari,Ayush Verma,2026-03-09,KalamkariBlockPrints
+319,Kalamkari_319.jpg,Kalamkari,Ayush Verma,2026-03-10,JSP Handlooms
+320,Kalamkari_320.jpg,Kalamkari,Ayush Verma,2026-03-12,Nachiyars
+321,Kalamkari_321.jpg,Kalamkari,Ayush Verma,2026-03-12,Nachiyars
+322,Kalamkari_322.jpg,Kalamkari,Ayush Verma,2026-03-09,Soovos Handlooms
+323,Kalamkari_323.jpg,Kalamkari,Ayush Verma,2026-03-14,TradeIndia
+324,Kalamkari_324.jpg,Kalamkari,Ayush Verma,2026-03-12,Nachiyars
+325,Kalamkari_325.jpg,Kalamkari,Ayush Verma,2026-03-11,Soovos Handlooms
+326,Kalamkari_326.jpg,Kalamkari,Ayush Verma,2026-03-10,TheWardrobeStories
+327,Kalamkari_327.jpg,Kalamkari,Ayush Verma,2026-03-11,IndoKrafts
+328,Kalamkari_328.jpg,Kalamkari,Ayush Verma,2026-03-12,KalamkariBlockPrints
+329,Kalamkari_329.jpg,Kalamkari,Ayush Verma,2026-03-09,Myntra
+330,Kalamkari_330.jpg,Kalamkari,Ayush Verma,2026-03-11,TradeIndia
+331,Kalamkari_331.jpg,Kalamkari,Ayush Verma,2026-03-11,Sanskruti
+332,Kalamkari_332.jpg,Kalamkari,Ayush Verma,2026-03-13,IndoKrafts
+333,Kalamkari_333.jpg,Kalamkari,Ayush Verma,2026-03-09,IndiaMart
+334,Kalamkari_334.jpg,Kalamkari,Ayush Verma,2026-03-09,Myntra
+335,Kalamkari_335.jpg,Kalamkari,Ayush Verma,2026-03-11,Sanskruti
+336,Kalamkari_336.jpg,Kalamkari,Ayush Verma,2026-03-12,IndiaMart
+337,Kalamkari_337.jpg,Kalamkari,Ayush Verma,2026-03-13,TheWardrobeStories
+338,Kalamkari_338.jpg,Kalamkari,Ayush Verma,2026-03-13,KalamkariBlockPrints
+339,Kalamkari_339.jpg,Kalamkari,Ayush Verma,2026-03-12,VrikshamIndia
+340,Kalamkari_340.jpg,Kalamkari,Ayush Verma,2026-03-12,SMSarees
+341,Kalamkari_341.jpg,Kalamkari,Ayush Verma,2026-03-13,SMSarees
+342,Kalamkari_342.jpg,Kalamkari,Ayush Verma,2026-03-12,Myntra
+343,Kalamkari_343.jpg,Kalamkari,Ayush Verma,2026-03-11,Sanskruti
+344,Kalamkari_344.jpg,Kalamkari,Ayush Verma,2026-03-12,IndoKrafts
+345,Kalamkari_345.jpg,Kalamkari,Ayush Verma,2026-03-12,Nachiyars
+346,Kalamkari_346.jpg,Kalamkari,Ayush Verma,2026-03-14,TradeIndia
+347,Kalamkari_347.jpg,Kalamkari,Ayush Verma,2026-03-13,Soovos Handlooms
+348,Kalamkari_348.jpg,Kalamkari,Ayush Verma,2026-03-14,Sanskruti
+349,Kalamkari_349.jpg,Kalamkari,Ayush Verma,2026-03-12,Sanskruti
+350,Kalamkari_350.jpg,Kalamkari,Ayush Verma,2026-03-09,IndoKrafts
+351,Kalamkari_351.jpg,Kalamkari,Ayush Verma,2026-03-14,FabricPedia
+352,Kalamkari_352.jpg,Kalamkari,Ayush Verma,2026-03-10,Google Images
+353,Kalamkari_353.jpg,Kalamkari,Ayush Verma,2026-03-12,Pinterest
+354,Kalamkari_354.jpg,Kalamkari,Ayush Verma,2026-03-12,Luxurion World
+355,Kalamkari_355.jpg,Kalamkari,Ayush Verma,2026-03-10,IndoKrafts
+356,Kalamkari_356.jpg,Kalamkari,Ayush Verma,2026-03-10,IndiaMart
+357,Kalamkari_357.jpg,Kalamkari,Ayush Verma,2026-03-09,Nachiyars
+358,Kalamkari_358.jpg,Kalamkari,Ayush Verma,2026-03-14,Luxurion World
+359,Kalamkari_359.jpg,Kalamkari,Ayush Verma,2026-03-11,VrikshamIndia
+360,Kalamkari_360.jpg,Kalamkari,Ayush Verma,2026-03-09,Nachiyars
+361,Kalamkari_361.jpg,Kalamkari,Ayush Verma,2026-03-12,TheWardrobeStories
+362,Kalamkari_362.jpg,Kalamkari,Ayush Verma,2026-03-12,Justdial
+363,Kalamkari_363.jpg,Kalamkari,Ayush Verma,2026-03-09,Nachiyars
+364,Kalamkari_364.jpg,Kalamkari,Ayush Verma,2026-03-09,JSP Handlooms
+365,Kalamkari_365.jpg,Kalamkari,Ayush Verma,2026-03-10,KalamkariBlockPrints
+366,Kalamkari_366.jpg,Kalamkari,Ayush Verma,2026-03-14,IndiaMart
+367,Kalamkari_367.jpg,Kalamkari,Ayush Verma,2026-03-12,Luxurion World
+368,Kalamkari_368.jpg,Kalamkari,Ayush Verma,2026-03-13,TradeIndia
+369,Kalamkari_369.jpg,Kalamkari,Ayush Verma,2026-03-14,Google Images
+370,Kalamkari_370.jpg,Kalamkari,Ayush Verma,2026-03-14,JSP Handlooms
+371,Kalamkari_371.jpg,Kalamkari,Ayush Verma,2026-03-12,Sanskruti
+372,Kalamkari_372.jpg,Kalamkari,Ayush Verma,2026-03-12,SMSarees
+373,Kalamkari_373.jpg,Kalamkari,Ayush Verma,2026-03-10,Myntra
+374,Kalamkari_374.jpg,Kalamkari,Ayush Verma,2026-03-12,TheWardrobeStories
+375,Kalamkari_375.jpg,Kalamkari,Ayush Verma,2026-03-13,JSP Handlooms
+376,Kalamkari_376.jpg,Kalamkari,Ayush Verma,2026-03-11,Luxurion World
+377,Kalamkari_377.jpg,Kalamkari,Ayush Verma,2026-03-09,JSP Handlooms
+378,Kalamkari_378.jpg,Kalamkari,Ayush Verma,2026-03-11,Sanskruti
+379,Kalamkari_379.jpg,Kalamkari,Ayush Verma,2026-03-10,SMSarees
+380,Kalamkari_380.jpg,Kalamkari,Ayush Verma,2026-03-11,SMSarees
+381,Kalamkari_381.jpg,Kalamkari,Ayush Verma,2026-03-10,KalamkariBlockPrints
+382,Kalamkari_382.jpg,Kalamkari,Ayush Verma,2026-03-14,Luxurion World
+383,Kalamkari_383.jpg,Kalamkari,Ayush Verma,2026-03-14,IndoKrafts
+384,Kalamkari_384.jpg,Kalamkari,Ayush Verma,2026-03-10,IndiaMart
+385,Kalamkari_385.jpg,Kalamkari,Ayush Verma,2026-03-09,TheWardrobeStories
+386,Kalamkari_386.jpg,Kalamkari,Ayush Verma,2026-03-11,IndiaMart
+387,Kalamkari_387.jpg,Kalamkari,Ayush Verma,2026-03-11,IndiaMart
+388,Kalamkari_388.jpg,Kalamkari,Ayush Verma,2026-03-14,Soovos Handlooms
+389,Kalamkari_389.jpg,Kalamkari,Ayush Verma,2026-03-13,KalamkariBlockPrints
+390,Kalamkari_390.jpg,Kalamkari,Ayush Verma,2026-03-09,TradeIndia
+391,Kalamkari_391.jpg,Kalamkari,Ayush Verma,2026-03-10,VrikshamIndia
+392,Kalamkari_392.jpg,Kalamkari,Ayush Verma,2026-03-12,IndiaMart
+393,Kalamkari_393.jpg,Kalamkari,Ayush Verma,2026-03-14,TradeIndia
+394,Kalamkari_394.jpg,Kalamkari,Ayush Verma,2026-03-10,VrikshamIndia
+395,Kalamkari_395.jpg,Kalamkari,Ayush Verma,2026-03-11,FabricPedia
+396,Kalamkari_396.jpg,Kalamkari,Ayush Verma,2026-03-12,SMSarees
+397,Kalamkari_397.jpg,Kalamkari,Ayush Verma,2026-03-12,IndoKrafts
+398,Kalamkari_398.jpg,Kalamkari,Ayush Verma,2026-03-14,Soovos Handlooms
+399,Kalamkari_399.jpg,Kalamkari,Ayush Verma,2026-03-12,TradeIndia
+400,Kalamkari_400.jpg,Kalamkari,Ayush Verma,2026-03-14,IndoKrafts
+401,Kalamkari_401.jpg,Kalamkari,Ayush Verma,2026-03-11,Google Images
+402,Kalamkari_402.jpg,Kalamkari,Ayush Verma,2026-03-10,IndoKrafts
+403,Kalamkari_403.jpg,Kalamkari,Ayush Verma,2026-03-11,Sanskruti
