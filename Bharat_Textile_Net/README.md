@@ -84,14 +84,9 @@ Examples of textile styles represented include:
 
 - Kalamkari
 - Ikat
-- Bandhani
-- Block Print
-- Banarasi
-- Kanjeevaram
+- Pashmina
 - Ajrakh
 - Chikankari
-- Phulkari
-- Patola
 
 These styles represent **different Indian regions, weaving techniques, and cultural traditions**.
 
