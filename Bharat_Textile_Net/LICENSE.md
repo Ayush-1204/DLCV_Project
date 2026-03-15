@@ -67,12 +67,12 @@ This dataset is intended for **restricted academic distribution only**.
 ### Attribution
 
 If you use this dataset in academic work, please cite it as:
-
+'''
   Bharat Textile Net Dataset
   Traditional Textile Pattern Recognition
   CSE3292 — Deep Learning for Computer Vision
   2026
-
+'''
 
 ---
 
