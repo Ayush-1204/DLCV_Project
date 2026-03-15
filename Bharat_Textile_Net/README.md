@@ -124,30 +124,6 @@ This diversity improves dataset robustness.
 
 ---
 
-# Image Naming Convention
-
-Each image follows the format:
-
-```
-class_source_index.jpg
-```
-
-Example:
-
-```
-ikat_flickr_012.jpg
-kalamkari_google_041.jpg
-bandhani_indiamart_023.jpg
-```
-
-This naming structure preserves information about:
-
-- class label
-- data source
-- unique identifier
-
----
-
 # Annotation Format
 
 Metadata for each image is stored in a CSV file.
