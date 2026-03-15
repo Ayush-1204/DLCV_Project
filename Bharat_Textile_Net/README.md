@@ -216,21 +216,6 @@ This diversity helps improve model generalization.
 
 ---
 
-# Project Timeline
-
-The dataset was constructed over **6 weeks**.
-
-| Week | Task |
-|---|---|
-| Week 1–2 | Image collection |
-| Week 3–4 | Data cleaning and annotation |
-| Week 5 | Dataset splitting |
-| Week 6 | Documentation and evaluation |
-
-With **5 team members collecting 400–500 images each**, the target dataset size was achievable.
-
----
-
 # Applications
 
 This dataset can support research in:
