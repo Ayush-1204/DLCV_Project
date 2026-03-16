@@ -65,7 +65,7 @@ Our goal is to create a **benchmark dataset for Indian textile recognition** tha
 | Attribute | Value |
 |---|---|
 | Total Images | ~2000–2500 |
-| Number of Classes | 10 |
+| Number of Classes | 5 |
 | Images per Class | ~200–250 |
 | Image Format | JPEG (.jpg) |
 | Dataset Type | Image Classification |
